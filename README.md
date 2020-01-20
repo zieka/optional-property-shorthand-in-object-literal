@@ -97,10 +97,10 @@ The following is a high-level list of tasks to progress through each stage of th
 
 ### Stage 1 Entrance Criteria
 
-- [] Identified a "champion" who will advance the addition.
-- [] Prose outlining the problem or need and the general shape of a solution.
-- [] Illustrative examples of usage.
-- [] ~High-level API~ _(proposal does not introduce an API)_.
+- [ ] Identified a "champion" who will advance the addition.
+- [ ] Prose outlining the problem or need and the general shape of a solution.
+- [ ] Illustrative examples of usage.
+- [ ] ~High-level API~ _(proposal does not introduce an API)_.
 
 ### Stage 2 Entrance Criteria
 
